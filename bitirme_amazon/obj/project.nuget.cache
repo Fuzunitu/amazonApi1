@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ECiku0ev8SiI8TFfeHmtO+QAr6B++3Q6Lc4FaxlxTcWrwvMSqh+qOh4fAW5G9wfUMagR41OC9dK6p9zJA9QNTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\damla\\OneDrive\\Masaüstü\\bitirme_api\\bitirme_amazon\\bitirme_amazon\\bitirme_amazon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damla\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\damla\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\damla\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\damla\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\damla\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\damla\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

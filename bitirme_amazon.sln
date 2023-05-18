@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bitirme_amazon", "bitirme_amazon\bitirme_amazon.csproj", "{07B366BB-F4D2-475C-B63C-91C6A46328FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07B366BB-F4D2-475C-B63C-91C6A46328FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B366BB-F4D2-475C-B63C-91C6A46328FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B366BB-F4D2-475C-B63C-91C6A46328FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B366BB-F4D2-475C-B63C-91C6A46328FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F8F2B69-993E-4DDE-9BFB-7F76C60DD0FF}
+	EndGlobalSection
+EndGlobal
